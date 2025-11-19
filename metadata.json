@@ -1,21 +1,18 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Programming: Comments",
+    "slug": "programming-comments",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming",
+        "pseudocode"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "programming-pseudocode"
     ],
     "related": [
-        "",
-        ""
+        "python-comments"
     ]
 }
