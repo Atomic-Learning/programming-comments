@@ -11,7 +11,7 @@
     ],
     "duration": 2,
     "prerequisites": [
-        "programming-pseudocode"
+        "atomic-learning-pseudocode"
     ],
     "related": [
         "python-comments"
